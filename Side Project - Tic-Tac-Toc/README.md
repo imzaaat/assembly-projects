@@ -1,3 +1,5 @@
+> ### NOTE: The following document is no longer maintead and may have outdated information/links.
+
 #  Assembly Tic-Tac-Toe
 ATTT, is a simple tic-tac-toe game developed by x86 assembly with the help of various interrupts such as, 10h and 21h.
 
